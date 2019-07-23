@@ -1,0 +1,13 @@
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\ExpenseTracker.Repository.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\EntityFramework.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\EntityFramework.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Release\ExpenseTracker.Repository.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Release\ExpenseTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Release\ExpenseTracker.Repository.csproj.CopyComplete
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Release\ExpenseTracker.Repository.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Release\ExpenseTracker.Repository.pdb

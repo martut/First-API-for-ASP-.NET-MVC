@@ -1,0 +1,39 @@
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojAssemblyReference.cache
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CopyComplete
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CopyComplete
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojAssemblyReference.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csproj.CopyComplete
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb

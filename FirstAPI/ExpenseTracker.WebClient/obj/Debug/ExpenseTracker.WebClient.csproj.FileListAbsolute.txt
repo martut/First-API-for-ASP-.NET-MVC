@@ -1,0 +1,96 @@
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.dll.config
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.Constants.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\JQueryUIHelpers.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Owin.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Helpers.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Mvc.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Optimization.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Razor.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\WebGrease.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.Constants.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\JQueryUIHelpers.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Helpers.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Mvc.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Razor.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\System.Web.Optimization.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csproj.CopyComplete
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\PagedList.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\PagedList.Mvc.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\PagedList.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\PagedList.Mvc.xml
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.WebClient\bin\Marvin.JsonPatch.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.dll.config
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.WebClient.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.Constants.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\JQueryUIHelpers.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Marvin.JsonPatch.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Owin.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\PagedList.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\PagedList.Mvc.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Helpers.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Mvc.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Optimization.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Razor.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\WebGrease.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.Constants.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\JQueryUIHelpers.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\PagedList.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\PagedList.Mvc.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Helpers.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Mvc.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Razor.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\System.Web.Optimization.xml
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csprojAssemblyReference.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.csproj.CopyComplete
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.WebClient\obj\Debug\ExpenseTracker.WebClient.pdb

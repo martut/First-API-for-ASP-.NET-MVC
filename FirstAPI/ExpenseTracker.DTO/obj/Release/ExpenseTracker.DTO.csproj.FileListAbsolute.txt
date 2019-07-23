@@ -1,0 +1,6 @@
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\bin\Release\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\bin\Release\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Release\ExpenseTracker.DTO.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Release\ExpenseTracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Release\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Release\ExpenseTracker.DTO.pdb

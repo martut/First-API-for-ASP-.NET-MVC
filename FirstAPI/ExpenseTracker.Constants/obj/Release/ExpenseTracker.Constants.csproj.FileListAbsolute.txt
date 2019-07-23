@@ -1,0 +1,6 @@
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\bin\Release\ExpenseTracker.Constants.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\bin\Release\ExpenseTracker.Constants.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\obj\Release\ExpenseTracker.Constants.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\obj\Release\ExpenseTracker.Constants.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\obj\Release\ExpenseTracker.Constants.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.Constants\obj\Release\ExpenseTracker.Constants.pdb

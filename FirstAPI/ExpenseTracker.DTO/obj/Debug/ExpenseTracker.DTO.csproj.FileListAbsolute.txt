@@ -1,0 +1,18 @@
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojAssemblyReference.cache
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\building-securing-restful-api-aspdotnet\3-exercise-files\9_sorting\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojAssemblyReference.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Source\Repos\Creating API for ASPNET MVC2\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojAssemblyReference.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csproj.CoreCompileInputs.cache
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Users\A662353\Downloads\For Git\Creating API for ASPNET MVC\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
